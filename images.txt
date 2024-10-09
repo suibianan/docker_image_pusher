@@ -6,3 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #facalboard
 mattermost/focalboard:edge
+#planka
+meltyshev/planka
+#bitwarden
+bitwarden/server
