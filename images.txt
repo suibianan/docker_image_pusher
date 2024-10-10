@@ -7,4 +7,4 @@ xhofe/alist:latest
 #facalboard
 mattermost/focalboard:edge
 #planka
-meltyshev/planka
+ghcr.io/plankanban/planka:1.23.2
