@@ -8,5 +8,3 @@ xhofe/alist:latest
 mattermost/focalboard:edge
 #planka
 meltyshev/planka
-#bitwarden
-bitwarden/server
